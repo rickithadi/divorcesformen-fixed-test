@@ -11,12 +11,16 @@ export default {
   "primary": "#3b82f6",
   "secondary": "#64748b",
   "accent": "#f59e0b",
-  "brand-1": "#3b82f6",
-  "brand-2": "#3b82f6",
-  "brand-3": "#3b82f6",
-  "brand-4": "#3b82f6",
-  "brand-5": "#3b82f6",
-  "brand-6": "#3b82f6"
+  "brand-1": "#1e40af", // Deep blue for main branding
+  "brand-2": "#2563eb", // Primary blue for text/links
+  "brand-3": "#ffffff", // White for backgrounds
+  "brand-4": "#f1f5f9", // Light blue-gray for subtle backgrounds
+  "brand-5": "#e2e8f0", // Border gray
+  "brand-6": "#0f172a", // Dark slate for text
+  "law-blue": "#1e40af",
+  "law-navy": "#1e3a8a",
+  "law-gray": "#64748b",
+  "law-light": "#f8fafc"
 },
       spacing: {
   "spacing-1": "4px",
@@ -48,17 +52,17 @@ export default {
 ],
       {
         "custom": {
-  "primary": "#3b82f6",
-  "secondary": "#64748b",
-  "accent": "#f59e0b",
-  "neutral": "#1f2937",
+  "primary": "#2563eb",
+  "secondary": "#64748b", 
+  "accent": "#dc2626",
+  "neutral": "#334155",
   "base-100": "#ffffff",
-  "base-200": "#f3f4f6",
-  "base-300": "#e5e7eb",
-  "info": "#06b6d4",
-  "success": "#10b981",
-  "warning": "#f59e0b",
-  "error": "#ef4444"
+  "base-200": "#f8fafc",
+  "base-300": "#e2e8f0",
+  "info": "#0ea5e9",
+  "success": "#059669",
+  "warning": "#d97706", 
+  "error": "#dc2626"
 }
       }
     ],

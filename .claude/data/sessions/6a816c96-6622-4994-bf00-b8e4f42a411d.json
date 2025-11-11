@@ -1,0 +1,11 @@
+{
+  "session_id": "6a816c96-6622-4994-bf00-b8e4f42a411d",
+  "prompts": [
+    "conduct design overhaul, use CRAWL_DATA.md for messaging and design direction. use daisyUI blueprint mcp to generate aesthetic components",
+    "debug design analyzer and highlight potential issues",
+    "continue website update",
+    "[Image #1]",
+    "use assets from public folder",
+    "revert the colours and integrate this asset prominently in an iframe or similar https://www.youtube.com/watch?v=MGPhZUJJPLw"
+  ]
+}
